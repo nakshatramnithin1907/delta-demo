@@ -1,2 +1,2 @@
 # delta-demo
-create an account 
+create an account.
